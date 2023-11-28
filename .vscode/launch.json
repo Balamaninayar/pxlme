@@ -8,14 +8,14 @@
       "name": "pxlme",
       "request": "launch",
 
-      "program": "lib/main_dev.dart",
+      "program": "lib/main.dart",
       "type": "dart"
     },
     {
       "name": "pxlme (profile mode)",
       "request": "launch",
 
-      "program": "lib/main_dev.dart",
+      "program": "lib/main.dart",
       "type": "dart",
       "flutterMode": "profile"
     },
@@ -23,7 +23,7 @@
       "name": "pxlme (release mode)",
       "request": "launch",
 
-      "program": "lib/main_dev.dart",
+      "program": "lib/main.dart",
       "type": "dart",
       "flutterMode": "release"
     },
