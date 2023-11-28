@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pxlme</string>
+    <string name="facebook_app_id">353746273714469</string>
+    <string name="fb_login_protocol_scheme">fb353746273714469</string>
+    <string name="facebook_client_token">138eaca5f9d650c19765ef9dadab2bd3</string>
+</resources>
